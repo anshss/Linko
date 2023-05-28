@@ -174,7 +174,7 @@ const setViewCollection = async () => {
 
   const uploadWithSpheron = async (e) => {
     setLoading(true)
-    const response = await fetch(`http://localhost:3000/api/hello`); // get the temporary access token from server
+    const response = await fetch(`https://linko-deploy.vercel.app/api/hello`); // get the temporary access token from server
     // console.log(response);
     const resJson = await response.json();
     // console.log(resJson);

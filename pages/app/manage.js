@@ -16,7 +16,7 @@ export default function Dashboard() {
         setLocation(window.location);
       }, []);
 
-    const tableName = "linko_links_80001_6226"; 
+    const tableName = "linko_links_80001_6516"; 
     const id = "link1"
 
     const db = new Database();

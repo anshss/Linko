@@ -19,11 +19,11 @@
 // }
 
 // createTable()
+//latest link- linko_links_80001_6516
 
+// linko_links_3141_191
 
-//linko_links_3141_191
-
-//linko_links_80001_6226
+// linko_links_80001_6226
 
 
 // const setLink = async() =>{

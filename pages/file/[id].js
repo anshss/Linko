@@ -3,7 +3,7 @@ import { useRouter } from 'next/router'
 import React, { useEffect, useState } from 'react';
 import { Database } from "@tableland/sdk";
 
-const tableName = "linko_links_80001_6226"; 
+const tableName = "linko_links_80001_6516"; 
 
 export default  function Files() {
     const router = useRouter()

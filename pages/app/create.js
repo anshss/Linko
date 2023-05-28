@@ -6,7 +6,7 @@ import Link from "next/link";
 
 export default function Home() {
   const db = new Database();
-  const tableName = "linko_links_80001_6226";
+  const tableName = "linko_links_80001_6516";
   const [backlink, setBacklink] = useState("");
   const [loading, setLoading] = useState(false);
   const [data, setData] = useState();

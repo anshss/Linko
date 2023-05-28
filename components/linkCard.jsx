@@ -24,7 +24,7 @@ export default function LinkCard({
   getData,
 }) {
   const db = new Database();
-  const tableName = "linko_links_80001_6226";
+  const tableName = "linko_links_80001_6516";
 
   const [type, setType] = useState("file");
   const [redirectLink, setRedirectLink] = useState("");
